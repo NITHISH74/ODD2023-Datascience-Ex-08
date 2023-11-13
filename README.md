@@ -82,9 +82,9 @@ plt.boxplot(x="Sales",data=df)
 plt.show()
 ```
 
-# OUTPUT
+## OUTPUT:
 
-## DATA VISUALIZATION USING SEABORN: 
+### DATA VISUALIZATION USING SEABORN: 
 
 ### LINE PLOT:
 <img width="265" alt="s1" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/1e310b64-6246-4b5e-8af9-b0a1a7bb1f3d">
@@ -94,8 +94,6 @@ plt.show()
 <img width="256" alt="s3" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/06adcef5-1957-40b3-b4c9-ac5fc1197e85">
 
 ### SCATTER PLOT:
-<img width="260" alt="s4" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/7becd8ca-0b86-41a4-a980-a6dbbfc8e7ed">
-
 <img width="240" alt="s5" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/acd8bcd8-5f03-4465-b11b-334bfad65db1">
 
 <img width="269" alt="s6" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/f90cfdae-bace-40af-a932-baba1529f7e7">
@@ -135,18 +133,16 @@ plt.show()
 <img width="262" alt="s18" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/a2645296-391e-4cdd-81e2-253a63bf6e81">
 
 ### HEATMAP:
-<img width="268" alt="s19" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/19f56eeb-f047-403a-a3fd-014352d1ce2b">
+<img width="258" alt="s19" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/19f56eeb-f047-403a-a3fd-014352d1ce2b">
 
 ### PIECHART:
-<img width="268" alt="s20" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/6a831c72-bf5b-4869-b683-576e98ac84fb">
-
-<img width="228" alt="s21" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/ac81ea31-bf48-4375-a6d3-18e1eeea1ad8">
+<img width="258" alt="s20" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/6a831c72-bf5b-4869-b683-576e98ac84fb">
 
 ### HISTOGRAM:
-<img width="268" alt="s22" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/910156bb-5864-4b83-ac0d-d55ea3bb798b">
+<img width="258" alt="s22" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/910156bb-5864-4b83-ac0d-d55ea3bb798b">
 
 ### BAR GRAPH:
-<img width="278" alt="s23" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/369bc111-32eb-4390-8b91-0da55193b9fe">
+<img width="258" alt="s23" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/369bc111-32eb-4390-8b91-0da55193b9fe">
 
 ### SCATTER PLOT:
 <img width="236" alt="s24" src="https://github.com/SmritiManikand/ODD2023-Datascience-Ex-08/assets/113674204/15da2ec6-f819-4b6d-b171-b3022faf0ecc">
